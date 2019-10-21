@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica6-LATV02</string>
+    <string name="imagen">image</string>
+    <string name="btpulsar">Pulse Aqui</string>
+    <string name="estamos">Estamos en Celular</string>
+    <string name="estamos2">Estamos en una Tablet</string>
+</resources>
